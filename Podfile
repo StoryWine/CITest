@@ -12,14 +12,14 @@ target 'CI' do
   end
 
     # 网络
-    #pod 'Alamofire'
-    #pod 'Kingfisher'
+    pod 'Alamofire'
+    pod 'Kingfisher'
 
     # 布局
     pod 'SnapKit'
 
     # 数据
-    #pod 'SwiftyJSON'
-    #pod 'ObjectMapper'
+    pod 'SwiftyJSON'
+    pod 'ObjectMapper'
     
 end
