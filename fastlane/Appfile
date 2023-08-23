@@ -1,0 +1,10 @@
+# The bundle identifier of your app (项目 Bundle Identifier)
+# 若有多个 Bundle Identifier 请用逗号隔开
+app_identifier("com.qihai.CI") 
+
+# Your Apple Developer Portal username (可打包的开发者账号)
+apple_id("1134357861@qq.com") 
+
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
